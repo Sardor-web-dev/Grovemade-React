@@ -1,18 +1,47 @@
-.head{
+.head {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 50px;
 }
-.txt{
+
+.txt {
     display: flex;
     flex-direction: column;
     text-align: center;
     gap: 10px;
 }
-.products{
+
+.products {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 25px;
+}
+
+.smth {
+    display: flex;
+    flex-direction: column;
+    img{
+        width: 310px;
+        height: 434px;
+    }
+    p{
+        color: gray;
+    }
+    span{
+        color: gray;
+    }
+}
+.tochka{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    img{
+        width: 7px;
+        height: 7px;
+    }
 }

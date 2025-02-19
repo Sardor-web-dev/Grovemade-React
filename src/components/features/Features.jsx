@@ -7,6 +7,11 @@ function Features() {
             <div className="txt">
                 <h1>Featured Products</h1>
                 <span>See What’s Trending Right Now</span>
+                <div className="tochka">
+                <img src="src/assets/tochka.png" alt="" />
+                <img src="src/assets/tochka.png" alt="" />
+                <img src="src/assets/tochka.png" alt="" />
+            </div>
             </div>
             </div>
             <div className="products">
