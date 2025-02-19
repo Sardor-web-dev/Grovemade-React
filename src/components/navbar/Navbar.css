@@ -1,0 +1,22 @@
+.nav_container{
+    height: 76px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+
+    img{
+        width: 215px;
+        height: 20px;
+    }
+    
+}
+.p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.first{
+    display: flex;
+    gap: 15px;
+}
