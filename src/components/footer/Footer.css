@@ -1,0 +1,56 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 150px;
+}
+.first_title{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    img{
+        width: 82px;
+        height: 82px;
+    }
+}
+.left_side{
+    display: flex;
+    gap: 25px;
+}
+.categories{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    gap: 15px;
+    P{
+        font-size: 20px;
+    }
+}
+.signup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    gap: 25px;
+    max-width: 500px;
+    p{
+        font-size: 24px;
+    }
+    span{
+        color: gray;
+    }
+}
+.down{
+    margin-top: 50px;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    margin-bottom: 1px;
+}
+.privaci{
+    display: flex;
+    gap: 15px;
+}

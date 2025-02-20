@@ -1,4 +1,5 @@
 import Features from "./components/features/Features";
+import Footer from "./components/footer/Footer";
 import Made from "./components/made/Made";
 import Main from "./components/main-section/Main";
 import Navbar from "./components/navbar/Navbar";
@@ -18,6 +19,7 @@ function App() {
     <Made/>
     <Work/>
     <PrevFooter/>
+    <Footer/>
     </>
   );
 }
