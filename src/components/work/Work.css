@@ -1,3 +1,37 @@
 .header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 10px;
+    h1{
+        font-weight: 500;
+        font-size: 38px;
+    }
+    p{
+        color: gray;
+    }
+}
+.pictures{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 25px;
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+}
+.some{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    flex-direction: column;
+    gap: 10px;
+    h1{
+        font-weight: 500;
+        font-size: 38px;
+    }
 }

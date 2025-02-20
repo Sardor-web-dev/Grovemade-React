@@ -4,6 +4,7 @@ import Main from "./components/main-section/Main";
 import Navbar from "./components/navbar/Navbar";
 import Office from "./components/office/Office";
 import Start from "./components/starter/Start";
+import Work from "./components/work/Work";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     <Features/>
     <Office/>
     <Made/>
+    <Work/>
     </>
   );
 }
