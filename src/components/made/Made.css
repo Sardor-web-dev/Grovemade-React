@@ -1,0 +1,24 @@
+.all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 15px;
+    img{
+        width: 80%;
+        height: 500px;
+    }
+}
+.t{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+    h1{
+        font-weight: 500;
+        font-size: 38px;
+    }
+}

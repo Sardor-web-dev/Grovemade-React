@@ -7,6 +7,10 @@
     background-image: url(../../assets/bg.svg);
     background-repeat: no-repeat;
     background-size: 100%;
+    h1{
+        font-size: 48px;
+        font-weight: 500;
+    }
 }
 .text{
     text-align: center;

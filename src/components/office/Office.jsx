@@ -1,10 +1,12 @@
+import "./Office.css"
+
 function Office() {
     return (
         <>
         <div className="desc">
-            <h1></h1>
-            <p></p>
-            <span></span>
+            <h1>Home Office Inspiration</h1>
+            <p>Working from home can be a challenge—see some creative solutions to get it just right.</p>
+            <span>LEARN MORE</span>
         </div>
         </>
     );

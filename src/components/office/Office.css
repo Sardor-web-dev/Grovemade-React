@@ -1,0 +1,18 @@
+.desc{
+    width: 100%;
+    background-size: 100%;
+    background-image: url(../../assets/bg2.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    color: white;
+    height: 504px;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 50px;
+    h1{
+        font-size: 48px;
+        font-weight: 500;
+    }
+}
