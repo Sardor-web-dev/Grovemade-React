@@ -3,6 +3,7 @@ import Made from "./components/made/Made";
 import Main from "./components/main-section/Main";
 import Navbar from "./components/navbar/Navbar";
 import Office from "./components/office/Office";
+import PrevFooter from "./components/prevfooter/prevFooter";
 import Start from "./components/starter/Start";
 import Work from "./components/work/Work";
 
@@ -16,6 +17,7 @@ function App() {
     <Office/>
     <Made/>
     <Work/>
+    <PrevFooter/>
     </>
   );
 }

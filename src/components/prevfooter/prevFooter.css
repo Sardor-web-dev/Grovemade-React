@@ -1,0 +1,29 @@
+.prev{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gray{
+    margin-top: 50px;
+    width: 1340px;
+    height: 404px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.logo_big{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    h1{
+        font-size: 48px;
+    }
+    p{
+        font-size: 24px;
+    }
+}
