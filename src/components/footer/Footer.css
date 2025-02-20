@@ -32,16 +32,22 @@
 .signup{
     display: flex;
     flex-direction: column;
-    align-items: center;
-    text-align: left;
-    gap: 25px;
     max-width: 500px;
+    gap: 55px;
     p{
         font-size: 24px;
     }
     span{
         color: gray;
     }
+    hr{
+        border: 1px solid black;
+    }
+}
+.without{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
 }
 .down{
     margin-top: 50px;
