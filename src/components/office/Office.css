@@ -11,10 +11,14 @@
     color: #ffffff;
     height: 504px;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
     margin-top: 50px;
     h1{
         font-size: 48px;
         font-weight: 500;
+    }
+    span{
+        cursor: pointer;
+        margin-top: 15x;
     }
 }

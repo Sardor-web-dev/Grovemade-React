@@ -16,10 +16,14 @@
 }
 .text{
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
     color: white;
 }
 .learn{
-    font-size: 20px;
+    font-size: 16px;
+    cursor: pointer;
 }
 .a{
     font-size: 24px;

@@ -23,17 +23,17 @@ function Features() {
                 <div className="smth">
                     <img src="src/assets/mack.png" alt="" />
                     <p>Walnut Laptop Riser</p>
-                    <span>$120</span>
+                    <span>$150</span>
                 </div>
                 <div className="smth">
                     <img src="src/assets/ipad.png" alt="" />
                     <p>Walnut iPad Stand</p>
-                    <span>$120</span>
+                    <span>$80</span>
                 </div>
                 <div className="smth">
                     <img src="src/assets/iMac.png" alt="" />
                     <p>Walnut Monitor Stand</p>
-                    <span>$120</span>
+                    <span>$100</span>
                 </div>
             </div>
         </>

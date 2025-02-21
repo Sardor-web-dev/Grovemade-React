@@ -24,14 +24,20 @@
     margin-top: 80px;
     align-items: center;
     justify-content: center;
+    img{
+        cursor: pointer;
+    }
 }
 .some{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 80px;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
+    p{
+        cursor: pointer;
+    }
     h1{
         font-weight: 400;
         font-size: 38px;
